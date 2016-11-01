@@ -1,0 +1,5 @@
+C:\Users\Juana\Desktop\ClassLibrary1Prueba\ClassLibrary1\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Juana\Desktop\ClassLibrary1Prueba\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Juana\Desktop\ClassLibrary1Prueba\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Juana\Desktop\ClassLibrary1Prueba\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Juana\Desktop\ClassLibrary1Prueba\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

@@ -1,0 +1,5 @@
+C:\Users\Juana\Desktop\RPP\ClassLibrary1Prueba\FormEstante\bin\Debug\FormEstante.exe.config
+C:\Users\Juana\Desktop\RPP\ClassLibrary1Prueba\FormEstante\obj\Debug\FormEstante.csprojResolveAssemblyReference.cache
+C:\Users\Juana\Desktop\RPP\ClassLibrary1Prueba\FormEstante\obj\Debug\FormEstante.Form1.resources
+C:\Users\Juana\Desktop\RPP\ClassLibrary1Prueba\FormEstante\obj\Debug\FormEstante.Properties.Resources.resources
+C:\Users\Juana\Desktop\RPP\ClassLibrary1Prueba\FormEstante\obj\Debug\FormEstante.csproj.GenerateResource.Cache
