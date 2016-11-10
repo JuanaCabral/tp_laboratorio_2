@@ -1,2 +1,0 @@
-C:\Users\Juana\Desktop\Escritorio\CabralJuana_2C_TP3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-C:\Users\Juana\Desktop\Escritorio\CabralJuana_2C_TP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
