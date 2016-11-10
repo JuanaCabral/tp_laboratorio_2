@@ -1,0 +1,7 @@
+C:\Users\Juana\Desktop\Escritorio\CabralJuana_2C_TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\Juana\Desktop\Escritorio\CabralJuana_2C_TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Juana\Desktop\Escritorio\CabralJuana_2C_TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Juana\Desktop\Escritorio\CabralJuana_2C_TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\Juana\Desktop\Escritorio\CabralJuana_2C_TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\Juana\Desktop\Escritorio\CabralJuana_2C_TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+C:\Users\Juana\Desktop\Escritorio\CabralJuana_2C_TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
